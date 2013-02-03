@@ -1,0 +1,1 @@
+alias googler="python /Users/Damon/.googler/googler.py"
